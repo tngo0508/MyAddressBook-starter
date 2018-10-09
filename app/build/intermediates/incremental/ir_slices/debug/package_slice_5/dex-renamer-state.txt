@@ -1,0 +1,4 @@
+#Tue Oct 09 14:13:09 PDT 2018
+base.0=/home/thomas/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
